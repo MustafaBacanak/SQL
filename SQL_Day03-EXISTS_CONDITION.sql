@@ -61,7 +61,8 @@ where exists (select urun_isim from mart where nisan.urun_isim=mart.urun_isim)
     NİSAN ayında satın alan MUSTERI_ISIM'lerini listeleyen bir sorgu yazınız.
  */
  
-Select 
+Select urun_isim,musteri_isim from nisan
+where exists (select urun_isim from mart where nisan.urun_isim!=mart.urun_isim)
 
 
 
