@@ -1,3 +1,4 @@
+
 create table ogrencilerr
 (
 id int,
