@@ -1,4 +1,4 @@
--- 									SUBQUERIES
+-- 								SUBQUERIES
 -- SUBQUERY baska bir SORGU(query)’nun icinde calisan SORGU’dur
 
 CREATE TABLE calisanlar2

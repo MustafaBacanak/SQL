@@ -48,3 +48,4 @@ Select * from musteriler5 Where urun_id Not Between 20 and 40
 
 
 
+
